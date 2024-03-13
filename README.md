@@ -50,7 +50,7 @@ In addition, I added the ‘Deep State Map’ to visualize the current front lin
 All the charts are interactive.
 #### Technologies:
 Kaggle, Google Spreadsheets, Tableau
-- [link to Project](https://public.tableau.com/views/Russian-UkrainianWarAnalytics/WarAnalytics?:language=en-GB&:display_count=n&:origin=viz_share_link)
+- [link to Project](https://public.tableau.com/views/WarAnalytics/WarAnalytics?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 #### SALES ANALYTICS
 I used the dataset from Power Query, cleaned the data, and added additional columns for visualization. 

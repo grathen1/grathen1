@@ -8,7 +8,7 @@ effectively with others.
 cleansing, and data analysis.
 
 ### TECHNICAL SKILLS:
-- SQL, Databases, Excel/Spreadsheets, Tableau/PowerBI, Python/C++, NumPy, Pandas, Power Query, Google BigQuery, Google Workspace
+- SQL, Databases, Excel/Spreadsheets, Tableau/PowerBI, Python/C++, NumPy, Pandas, Power Query, Google BigQuery, Google Workspace, Docker
 #### Skills:
 - Can built reports, Methods of statistical research, Linear and vector algebra, Strong Analytical Skills, Patern Recognition
 

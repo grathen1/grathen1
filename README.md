@@ -13,9 +13,9 @@ cleansing, and data analysis.
 - Can built reports, Methods of statistical research, Linear and vector algebra, Strong Analytical Skills, Patern Recognition
 
 ### EDUCATION:
-Bachelor`s Degree of SYSTEM ANALYSIS
+Bachelor`s Degree of of Computer Science and Cybernetics, SYSTEM ANALYSIS
 
-Taras Shevchenko National University of Kyiv (Cybernetic Faculty)
+Taras Shevchenko National University of Kyiv
 
 September 2022 - June 2026
 
